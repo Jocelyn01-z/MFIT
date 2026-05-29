@@ -1,0 +1,2 @@
+AP 1-HL 1-RL AUCme one_error coverage macAUC macro_f1 micro_f1 lr sigma clip neg best_epoch,batch_size
+0.439+0.006 0.981+0.002 0.902+0.002 0.905+0.002 0.481+0.011 0.231+0.004 0.714+0.01 0.134+0.006 0.36+0.009 0.1 0.25 0.1 10 56 96
